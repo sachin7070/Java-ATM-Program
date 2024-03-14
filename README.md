@@ -20,15 +20,15 @@ To use the Java ATM Program, follow these steps:
 1. Compile the `atmProgram.java` file using a Java compiler.
    ```bash
    javac atmProgram.java
-Run the compiled Java program.
+2 . Run the compiled Java program.
 
-bash
-Copy code
 java atmProgram
 Follow the on-screen prompts to select an option and perform the desired transaction.
 
-How to Contribute
-Contributions to this project are welcome! If you have any suggestions for improvements or new features, feel free to open an issue or submit a pull request.
+## Contribution
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
+Contributions to this project are welcome. If you have any suggestions for improvements or new features, feel free to open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
